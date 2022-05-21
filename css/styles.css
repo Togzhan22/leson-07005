@@ -93,7 +93,8 @@ body {
     font-size: 13px;
     line-height: 1.23;
     text-align: center;
-    color: var(--font-color-dark-theme) border: 1px solid var(--font-color-dark-theme);
+    color: var(--font-color-dark-theme);
+    border: 1px solid var(--font-color-dark-theme);
     border-radius: 4px;
     background-color: transparent;
     cursor: pointer;
